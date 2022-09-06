@@ -21,6 +21,9 @@ The repository is organised as follows:
 
 [CUDA 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive) has been used.
 
+We use [pyinstrument](https://github.com/joerick/pyinstrument) to measure the runtime of each key function of GNNs and that of each GNN model along with its breakdown results.
+We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
+
 
 ## Dataset
 We use 6 real-world network datasets:
