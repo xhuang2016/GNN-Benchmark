@@ -53,7 +53,7 @@ The datasets are downloaded from:
 $ python3 -m pyinstrument -o [**].html \--html [**].py
 ```
 Replace [\*\*] by file name and run the command will profile the code and save the result as html file. See an example below.
-![alt text](https://github.com/xhuang2016/GNN-Benchmark/pyinstrument.png?raw=true)
+![alt text](https://github.com/xhuang2016/GNN-Benchmark/blob/main/pyinstrument.png?raw=true)
 
 Please refer to our paper for more details.
 
