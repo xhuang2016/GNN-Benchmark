@@ -24,7 +24,7 @@ This repository contains the benchmark code used in our paper.
 [![](https://img.shields.io/badge/PyG-2.0.4-yellow)](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 [![](https://img.shields.io/badge/CUDA-11.3-green)](https://developer.nvidia.com/cuda-11.3.0-download-archive)
 
-We use [pyinstrument](https://github.com/joerick/pyinstrument) to measure the runtime of each key function of GNNs and that of each GNN model along with its breakdown results. We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
+We use [pyinstrument](https://github.com/joerick/pyinstrument) to profile the code. We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
 
 
 ## Dataset
@@ -39,7 +39,6 @@ We use 6 real-world network datasets:
 |ogbn-Products| 2,449,029 | 61,859,140 | 100 | 47 | 0.08 / 0.02 / 0.90 |
 
 
-
 The datasets are downloaded from:
 1. [GraphSAINT](https://github.com/GraphSAINT/GraphSAINT)
 2. [DGL](https://www.dgl.ai/)
@@ -49,8 +48,8 @@ The datasets are downloaded from:
 
 ## Running the code
 1. Download the data as described above.
-2. Run ```Code/.py``` to 
-3. Run ```Code/.py``` to 
+2. ```Code/.py``` to 
+3. ```Code/.py``` to 
 
 
 <!---## Cite--> 
