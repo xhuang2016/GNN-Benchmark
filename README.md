@@ -7,16 +7,19 @@
 
 ## Overview
 
-Here we provide the benchmark code used in our paper. 
-The repository is organised as follows:
-* ```requirements.txt```: All required Python libraries to run the code.
-* ```Code/.py```: Our implementation.
+The repository contains the benchmark code used in our paper. 
 
 
 ## Requirements
+
+<!--PyTorch v1.11.0--> 
+
+[![](https://img.shields.io/badge/PyTorch-1.11.0-green)](https://pytorch.org/get-started/previous-versions/)
+
 <!--OGB=1.3.3--> 
 
-[![](https://img.shields.io/badge/numpy-1.19.5-green)](https://numpy.org/devdocs/index.html)
+[![](https://img.shields.io/badge/OGB-1.3.3-green)](https://ogb.stanford.edu/docs/home/)
+
 
 
 [CUDA 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive) has been used.
