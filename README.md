@@ -49,6 +49,12 @@ The datasets are downloaded from:
 3. ```code/ClusterGCN``` includes implementations of ClusterGCN. 
 4. ```code/GraphSAINT``` includes implementations of GraphSAINT. 
 
+```bash
+$ python3 -m pyinstrument -o [**].html \--html [**].py
+```
+Replace [\*\*] by file name and run the command will profile the code and save the result as html file. See an example below.
+![alt text](https://github.com/xhuang2016/GNN-Benchmark/pyinstrument.png?raw=true)
+
 Please refer to our paper for more details.
 
 <!---## Cite--> 
