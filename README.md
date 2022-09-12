@@ -7,7 +7,7 @@
 
 ## Overview
 
-The repository contains the benchmark code used in our paper. 
+This repository contains the benchmark code used in our paper. 
 
 
 ## Requirements
@@ -16,18 +16,15 @@ The repository contains the benchmark code used in our paper.
 <!--OGB=1.3.3--> 
 <!--DGL=0.8.2--> 
 <!--PyG=2.0.4--> 
+<!--CUDA=11.3--> 
 
 [![](https://img.shields.io/badge/PyTorch-1.11.0-blueviolet)](https://pytorch.org/get-started/previous-versions/)
 [![](https://img.shields.io/badge/OGB-1.3.3-orange)](https://ogb.stanford.edu/docs/home/)
 [![](https://img.shields.io/badge/DGL-0.8.2-blue)](https://www.dgl.ai/pages/start.html)
 [![](https://img.shields.io/badge/PyG-2.0.4-yellow)](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+[![](https://img.shields.io/badge/CUDA-11.3-green)](https://developer.nvidia.com/cuda-11.3.0-download-archive)
 
-
-[CUDA 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive) has been used.
-
-We use [pyinstrument](https://github.com/joerick/pyinstrument) to measure the runtime of each key function of GNNs and that of each GNN model along with its breakdown results.
-
-We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
+We use [pyinstrument](https://github.com/joerick/pyinstrument) to measure the runtime of each key function of GNNs and that of each GNN model along with its breakdown results. We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
 
 
 ## Dataset
