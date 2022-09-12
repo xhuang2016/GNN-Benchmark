@@ -13,19 +13,13 @@ The repository contains the benchmark code used in our paper.
 ## Requirements
 
 <!--PyTorch v1.11.0--> 
-
-[![](https://img.shields.io/badge/PyTorch-1.11.0-blueviolet)](https://pytorch.org/get-started/previous-versions/)
-
 <!--OGB=1.3.3--> 
-
-[![](https://img.shields.io/badge/OGB-1.3.3-orange)](https://ogb.stanford.edu/docs/home/)
-
 <!--DGL=0.8.2--> 
-
-[![](https://img.shields.io/badge/DGL-0.8.2-blue)](https://www.dgl.ai/pages/start.html)
-
 <!--PyG=2.0.4--> 
 
+[![](https://img.shields.io/badge/PyTorch-1.11.0-blueviolet)](https://pytorch.org/get-started/previous-versions/)
+[![](https://img.shields.io/badge/OGB-1.3.3-orange)](https://ogb.stanford.edu/docs/home/)
+[![](https://img.shields.io/badge/DGL-0.8.2-blue)](https://www.dgl.ai/pages/start.html)
 [![](https://img.shields.io/badge/PyG-2.0.4-yellow)](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
 
