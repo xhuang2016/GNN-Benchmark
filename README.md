@@ -53,6 +53,7 @@ The datasets are downloaded from:
 4. ```code/ClusterGCN``` includes implementations of ClusterGCN. 
 5. ```code/GraphSAINT``` includes implementations of GraphSAINT. 
 
+Please refer to our paper for more details.
 
 <!---## Cite--> 
 
