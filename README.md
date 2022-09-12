@@ -48,8 +48,10 @@ The datasets are downloaded from:
 
 ## Running the code
 1. Download the data as described above.
-2. ```Code/.py``` to 
-3. ```Code/.py``` to 
+2. ```code/Functional``` includes implementations for functional tests: data loader, sampler, and graph convolutional layers.
+3. ```code/GraphSAGE``` includes implementations of GraphSAGE.
+4. ```code/ClusterGCN``` includes implementations of ClusterGCN. 
+5. ```code/GraphSAINT``` includes implementations of GraphSAINT. 
 
 
 <!---## Cite--> 
