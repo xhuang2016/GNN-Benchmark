@@ -24,7 +24,7 @@ This repository contains the benchmark code used in our paper.
 [![](https://img.shields.io/badge/PyG-2.0.4-yellow)](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 [![](https://img.shields.io/badge/CUDA-11.3-green)](https://developer.nvidia.com/cuda-11.3.0-download-archive)
 
-We use [pyinstrument](https://github.com/joerick/pyinstrument) to profile the code. We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power andenergy consumption.
+We use [pyinstrument](https://github.com/joerick/pyinstrument) to profile the code. We use [CodeCarbon](https://github.com/mlco2/codecarbon) to measure power/energy consumption.
 
 
 ## Dataset
