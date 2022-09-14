@@ -39,8 +39,7 @@ We use 6 real-world network datasets:
 |ogbn-Products| 2,449,029 | 61,859,140 | 100 | 47 | 0.08 / 0.02 / 0.90 |
 
 
-The datasets are downloaded from:
-1. [GraphSAINT](https://github.com/GraphSAINT/GraphSAINT) 2. [DGL](https://www.dgl.ai/) 3. [PyG](https://www.pyg.org/) 4. [OGB](https://ogb.stanford.edu/)
+The datasets can be downloaded from [GraphSAINT](https://github.com/GraphSAINT/GraphSAINT), [DGL](https://www.dgl.ai/), [PyG](https://www.pyg.org/), and [OGB](https://ogb.stanford.edu/).
 
 
 ## Running the code
